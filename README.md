@@ -3,24 +3,20 @@ Power BI dashboard for analyzing business sales, season-wise trends, gender dist
 
 -Key Performance Indicators (KPIs)
 
-KPI	Value	Insight
+KPI	Value	Insight:
 
-Total Volume	22M units	Strong product movement across all categories
-Total Price / Revenue	$884.6M	High global revenue performance
-Total Products Count	20.25K	Wide product catalog offered by the brand
-Min Product Price	$12	Accessible entry-level pricing
-Max Product Price	$134.99	Premium product price range
--Dashboard Objectives
+Total Volume	22M units	Strong product movement across all categories.
+Total Price / Revenue	$884.6M	High global revenue performance.
+Total Products Count	20.25K	Wide product catalog offered by the brand.
+Min Product Price	$12	Accessible entry-level pricing.
+Max Product Price	$134.99	Premium product price range.
+-Dashboard Objectives:
 
-Analyze seasonal sales trends and material preferences
-
-Understand gender-based purchasing behavior
-
-Visualize global sales distribution by product origin
-
-Identify high-performing product types (jackets, jeans, shoes, etc.)
-
-Provide insights for inventory planning and marketing strategy
+Analyze seasonal sales trends and material preferences.
+Understand gender-based purchasing behavior.
+Visualize global sales distribution by product origin.
+Identify high-performing product types (jackets, jeans, shoes, etc.).
+Provide insights for inventory planning and marketing strategy.
 
 -Key Insights
 1. Season-wise Performance
