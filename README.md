@@ -2,7 +2,9 @@
 Power BI dashboard for analyzing business sales, season-wise trends, gender distribution, and global origin performance using interactive visuals.
 
 -Key Performance Indicators (KPIs)
+
 KPI	Value	Insight
+
 Total Volume	22M units	Strong product movement across all categories
 Total Price / Revenue	$884.6M	High global revenue performance
 Total Products Count	20.25K	Wide product catalog offered by the brand
