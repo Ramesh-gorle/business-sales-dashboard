@@ -1,13 +1,14 @@
 # business-sales-dashboard
 Power BI dashboard for analyzing business sales, season-wise trends, gender distribution, and global origin performance using interactive visuals.
-🔥 Key Performance Indicators (KPIs)
+
+ Key Performance Indicators (KPIs)
 KPI	Value	Insight
 Total Volume	22M units	Strong product movement across all categories
 Total Price / Revenue	$884.6M	High global revenue performance
 Total Products Count	20.25K	Wide product catalog offered by the brand
 Min Product Price	$12	Accessible entry-level pricing
 Max Product Price	$134.99	Premium product price range
-🎯 Dashboard Objectives
+ Dashboard Objectives
 
 Analyze seasonal sales trends and material preferences
 
@@ -19,7 +20,7 @@ Identify high-performing product types (jackets, jeans, shoes, etc.)
 
 Provide insights for inventory planning and marketing strategy
 
-📈 Key Insights
+ Key Insights
 1. Season-wise Performance
 
 Winter & Autumn contribute the highest sales.
@@ -47,7 +48,7 @@ T-shirts lead Summer demand (2M).
 Women: 15M (67.7%)
 
 Men: 7M (32.2%)
-➡️ Women’s category drives nearly 2X more sales.
+ Women’s category drives nearly 2X more sales.
 
 4. Sales by Country of Origin
 
@@ -73,9 +74,9 @@ South Africa
 
 Morocco
 
-➡️ Strong global presence and well-distributed supply chain.
+ Strong global presence and well-distributed supply chain.
 
-🗺️ Dashboard Features
+ Dashboard Features
 
 Interactive slicers for:
 
@@ -97,7 +98,7 @@ Global map with sales volume
 
 Clean, user-friendly layout
 
-🛠️ Tools & Technologies
+ Tools & Technologies
 
 Power BI Desktop
 
